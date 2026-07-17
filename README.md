@@ -58,7 +58,7 @@ The dataset contains sales transactions for the year **2022**, including custome
 
 ![Dashboard](vrinda_store_dashboard.png)
 
-> *(Replace the image path with your dashboard screenshot.)*
+
 
 ---
 
@@ -111,4 +111,3 @@ This dashboard enables business stakeholders to:
 **Aman Shaikh**
 
 - 📧 Email: amansshaikh88@gmail.com
-- 💼 LinkedIn: *(Add your LinkedIn profile link here)*
