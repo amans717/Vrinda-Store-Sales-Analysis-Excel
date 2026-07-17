@@ -56,7 +56,7 @@ The dataset contains sales transactions for the year **2022**, including custome
 
 > **Dashboard Screenshot**
 
-![Dashboard](images/dashboard.png)
+![Dashboard](vrinda_store_dashboard.png)
 
 > *(Replace the image path with your dashboard screenshot.)*
 
